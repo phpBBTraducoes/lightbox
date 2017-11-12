@@ -5,7 +5,7 @@
  *
  * @copyright (c) 2015 Matt Friedman
  * @license GNU General Public License, version 2 (GPL-2.0)
- * Brazilian Portuguese translation by null2 (c) 2016 [ver 1.0.4] (https://github.com/phpBBTraducoes)
+ * Brazilian Portuguese translation by eunaumtenhoid (c) 2017 [ver 1.0.5] (https://github.com/phpBBTraducoes)
  */
 
 /**
@@ -28,6 +28,8 @@ $lang = array_merge($lang, array(
 	'LIGHTBOX_MAX_WIDTH_APPEND'		=> 'Recommendation based on image attachment settings: %spx',
 	'LIGHTBOX_GALLERY'				=> 'Permite modo galeria',
 	'LIGHTBOX_GALLERY_EXPLAIN'		=> 'Permite fácil navegação entre todas as imagens redimensionadas da página usando o efeito Lightbox.',
+	'LIGHTBOX_GALLERY_ALL'			=> 'Todas as imagens redimensionadas na página',
+	'LIGHTBOX_GALLERY_POSTS'		=> 'Todas as imagens redimensionadas por post',
 	'LIGHTBOX_SIGNATURES'			=> 'Redimensiona imagens na assinatura',
 	'LIGHTBOX_SIGNATURES_EXPLAIN'	=> 'Permite que imagens usadas em assinaturas sejam redimensionadas.',
 	'LIGHTBOX_IMG_TITLES'			=> 'Mostra o nome de arquivo da imagem',
